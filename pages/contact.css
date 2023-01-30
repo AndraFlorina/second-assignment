@@ -190,6 +190,10 @@ button:active {
   transform: translateY(4px);
 }
 
+textarea {
+  resize: none;
+}
+
 footer {
   color: #e5e7eb;
   background-color: #1f2937;
